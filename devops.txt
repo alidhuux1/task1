@@ -5,3 +5,5 @@ welocme
 this is my frst devops 
 project
 
+today was my first day
+at devops class
