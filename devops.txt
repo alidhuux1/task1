@@ -7,3 +7,12 @@ project
 
 today was my first day
 at devops class
+
+today was a great day 
+
+i am very eager to learn devops
+
+
+
+
+thanks
